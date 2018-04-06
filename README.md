@@ -7,7 +7,7 @@ lecture note for Computer Vision, mainly about Structure from Motion (SfM) and 3
 
 
 ## Automatic Tie-point Generation
-  • Introduction to Image Matching
+### Introduction to Image Matching
 		○ Recap: Correlation and Feature Matching
 	• SIFT Feature Extraction and Matching 
 	• Elimination of outliers by geometric validation
